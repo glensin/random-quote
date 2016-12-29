@@ -1,0 +1,30 @@
+#button {
+  font-family: serif;
+  font-size: 20px;
+  border: 2px solid black;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+
+  font-weight: lighter;
+}
+
+.lines {
+  font-family: sans-serif;;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 50px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.twitter-share-button{
+  font-family: serif;
+  font-size: 20px;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+  display: block;
+}
